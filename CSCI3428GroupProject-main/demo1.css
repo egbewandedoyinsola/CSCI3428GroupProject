@@ -1,0 +1,40 @@
+/*
+  The purpose of this file is to define the different styles for the
+  Mi'kmaq language app.
+
+  Authors: Terry Goldsmith (Created original file with all required styles)
+*/
+
+/* SEction for HTML tags */
+body {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#heading {
+  font-size: 70px;
+}
+
+i {
+    font-size:8rem;
+}
+
+.col-lg-4 {
+  padding: 30px 0;
+}
+
+/* Section for programmer defined classes */
+
+.top-space {
+    margin-top:3rem;
+}
+
+.button:hover {
+    transform:scale(1.1,1.1);
+    -webkit-transform:scale(1.1,1.1);
+    -moz-transform:scale(1.1,1.1);
+}
+
+/* Section for programmer defined id's */
+/* Empty */
